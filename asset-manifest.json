@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scinext.github.io/static/css/main.46ea13d1.css",
+    "main.js": "/scinext.github.io/static/js/main.2375fe81.js",
+    "static/js/787.e740e6cc.chunk.js": "/scinext.github.io/static/js/787.e740e6cc.chunk.js",
+    "index.html": "/scinext.github.io/index.html",
+    "main.46ea13d1.css.map": "/scinext.github.io/static/css/main.46ea13d1.css.map",
+    "main.2375fe81.js.map": "/scinext.github.io/static/js/main.2375fe81.js.map",
+    "787.e740e6cc.chunk.js.map": "/scinext.github.io/static/js/787.e740e6cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46ea13d1.css",
+    "static/js/main.2375fe81.js"
+  ]
+}
