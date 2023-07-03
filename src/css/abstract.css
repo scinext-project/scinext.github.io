@@ -1,0 +1,28 @@
+.abstract-div {
+    margin-top: 20px;
+}
+
+.abstract-row1 {
+    margin-bottom: 20px;
+}
+
+.abstract-text {
+    padding: 10px;
+    border: 1px solid rgb(209, 208, 208);
+    border-radius: 10px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 20px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#refresh-button {
+    background-color: rgb(73, 123, 231);
+}

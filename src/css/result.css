@@ -1,0 +1,15 @@
+.result-div {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.label-div {
+    display: inline-block;
+    max-width: 90%;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.center-heading {
+    text-align: left;
+}

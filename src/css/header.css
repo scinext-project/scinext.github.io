@@ -1,0 +1,9 @@
+.header-navbar {
+  background-color: #fff;
+  border-bottom: 2px solid rgb(245, 94, 34);
+}
+
+.header-navbar .navbar-brand img {
+  max-width: 100px;
+  height: auto;
+}

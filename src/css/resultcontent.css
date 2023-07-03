@@ -1,0 +1,8 @@
+.content {
+    display: inline-block;
+    margin: 20px 10px 20px 0px;
+    padding: 20px;
+    border: 1px solid rgb(209, 208, 208);
+    border-radius: 10px;
+    width: 500px;
+}
